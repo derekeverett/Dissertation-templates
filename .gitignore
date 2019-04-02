@@ -1,0 +1,14 @@
+*.aux
+*.acn
+*.bbl
+*.blg
+*.glo
+*.ist
+*.lof
+*.log
+*.lot
+*.synctex.gz
+*.toc
+*.DS_Store
+*.dvi
+*.out.ps
